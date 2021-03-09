@@ -1,4 +1,4 @@
-package fungsi_array;
+package tugas2_java_array;
 
 public class Tugas_sesi2_yudha {
 
@@ -21,6 +21,6 @@ public class Tugas_sesi2_yudha {
                 totalkamarkosong += 1;
             }
         }
-    }System.out.println("Kamar yang tersedia ada = "+totalkamarkosong);
+    }System.out.println("Kamar yang tersedia ada = "+total kamar kosong);
     }  
 }
